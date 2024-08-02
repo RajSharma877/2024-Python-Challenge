@@ -1,0 +1,4 @@
+Raj is a good boy
+I am a programmer
+My friends are Gaurav, Rohit, Madhav, Ritiksha
+My skills are Python and JavaScript
